@@ -22,6 +22,35 @@ CharacterManager/
 ## Identitas
 - Nama: Nazwa Haqqi Nasution  
 - NIM: 253303621233  
-- Link Google Docs Bagian D: [Klik di sini]([JavaVisual_TP03_[253303621233]_[Nazwa Haqqi Nasution].docx](https://github.com/user-attachments/files/33435403/JavaVisual_TP03_.253303621233._.Nazwa.Haqqi.Nasution.docx)
+- Link Google Docs Bagian D: ([JavaVisual_TP03_[253303621233]_[Nazwa Haqqi Nasution].docx](https://github.com/user-attachments/files/33435403/JavaVisual_TP03_.253303621233._.Nazwa.Haqqi.Nasution.docx)
 )
+
+# Tugas Praktikum 5 — CharacterManagerSprint
+
+## Deskripsi
+Project ini melanjutkan sistem **Character Manager** berbasis Java dengan prinsip OOP.  
+Pada TP5 ditambahkan fitur analitik rancangan sendiri (`findStrongest()`), eksperimen reference, serta analisis mendalam mengenai konsep reference, static, equals(), dan encapsulation.
+
+## Screenshot Output
+![Uploading output_tp5.png…]()
+
+## Struktur Folder Project
+CharacterManagerSprint/
+├── TP3/
+│   ├── src/
+│   └── README.md
+├── TP5/
+│   ├── src/
+│   └── README.md
+└── README.md   
+
+
+## Identitas
+- Nama: Nazwa Haqqi Nst  
+- NIM: [253303621233]  
+- Kelas: [Sistem Informasi Pagi A]  
+- Mata Kuliah: Java Visual  
+- Link Google Docs Bagian D: [javaVisual_TP05_[253303621233]_[Nazwa Haqqi Nasution].docx](https://github.com/user-attachments/files/33546414/javaVisual_TP05_.253303621233._.Nazwa.Haqqi.Nasution.docx)
+
+
 
